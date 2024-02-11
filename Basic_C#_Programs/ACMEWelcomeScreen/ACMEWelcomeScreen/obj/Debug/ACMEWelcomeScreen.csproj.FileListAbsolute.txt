@@ -1,0 +1,7 @@
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\ACMEWelcomeScreen\ACMEWelcomeScreen\bin\Debug\ACMEWelcomeScreen.exe.config
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\ACMEWelcomeScreen\ACMEWelcomeScreen\bin\Debug\ACMEWelcomeScreen.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\ACMEWelcomeScreen\ACMEWelcomeScreen\bin\Debug\ACMEWelcomeScreen.pdb
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\ACMEWelcomeScreen\ACMEWelcomeScreen\obj\Debug\ACMEWelcomeScreen.csproj.AssemblyReference.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\ACMEWelcomeScreen\ACMEWelcomeScreen\obj\Debug\ACMEWelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\ACMEWelcomeScreen\ACMEWelcomeScreen\obj\Debug\ACMEWelcomeScreen.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\ACMEWelcomeScreen\ACMEWelcomeScreen\obj\Debug\ACMEWelcomeScreen.pdb
