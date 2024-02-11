@@ -1,0 +1,7 @@
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\Student_Daily_Report.exe.config
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\Student_Daily_Report.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\bin\Debug\Student_Daily_Report.pdb
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\Student_Daily_Report.csproj.AssemblyReference.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\Student_Daily_Report.csproj.CoreCompileInputs.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\Student_Daily_Report.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Student_Daily_Report\Student_Daily_Report\obj\Debug\Student_Daily_Report.pdb
