@@ -1,0 +1,7 @@
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\bin\Debug\Loop_Assignment.exe.config
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\bin\Debug\Loop_Assignment.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\bin\Debug\Loop_Assignment.pdb
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.csproj.AssemblyReference.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Loop_Assignment\Loop_Assignment\obj\Debug\Loop_Assignment.pdb
