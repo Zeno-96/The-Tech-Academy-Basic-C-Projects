@@ -1,0 +1,7 @@
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Shipping Quote Project\Shipping Quote Project\bin\Debug\Shipping Quote Project.exe.config
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Shipping Quote Project\Shipping Quote Project\bin\Debug\Shipping Quote Project.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Shipping Quote Project\Shipping Quote Project\bin\Debug\Shipping Quote Project.pdb
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Shipping Quote Project\Shipping Quote Project\obj\Debug\Shipping Quote Project.csproj.AssemblyReference.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Shipping Quote Project\Shipping Quote Project\obj\Debug\Shipping Quote Project.csproj.CoreCompileInputs.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Shipping Quote Project\Shipping Quote Project\obj\Debug\Shipping Quote Project.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Shipping Quote Project\Shipping Quote Project\obj\Debug\Shipping Quote Project.pdb
