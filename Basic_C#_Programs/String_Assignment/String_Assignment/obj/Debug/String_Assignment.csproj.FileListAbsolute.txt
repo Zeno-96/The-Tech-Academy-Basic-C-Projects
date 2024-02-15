@@ -1,0 +1,7 @@
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\String_Assignment\String_Assignment\bin\Debug\String_Assignment.exe.config
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\String_Assignment\String_Assignment\bin\Debug\String_Assignment.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\String_Assignment\String_Assignment\bin\Debug\String_Assignment.pdb
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\String_Assignment\String_Assignment\obj\Debug\String_Assignment.csproj.AssemblyReference.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\String_Assignment\String_Assignment\obj\Debug\String_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\String_Assignment\String_Assignment\obj\Debug\String_Assignment.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\String_Assignment\String_Assignment\obj\Debug\String_Assignment.pdb
