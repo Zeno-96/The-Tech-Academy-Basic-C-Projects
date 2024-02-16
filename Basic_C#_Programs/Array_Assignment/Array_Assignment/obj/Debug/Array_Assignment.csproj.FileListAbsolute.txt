@@ -1,0 +1,7 @@
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.exe.config
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Array_Assignment\Array_Assignment\bin\Debug\Array_Assignment.pdb
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.csproj.AssemblyReference.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.exe
+C:\Users\bmort\Documents\GitHub\The Tech Academy Basic C# Projects\Basic_C#_Programs\Array_Assignment\Array_Assignment\obj\Debug\Array_Assignment.pdb
