@@ -1,0 +1,12 @@
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\bin\Debug\Final Challenge.exe.config
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\bin\Debug\Final Challenge.exe
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\bin\Debug\Final Challenge.pdb
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\bin\Debug\EntityFramework.dll
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\bin\Debug\EntityFramework.xml
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\obj\Debug\Final Challenge.csproj.AssemblyReference.cache
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\obj\Debug\Final Challenge.csproj.CoreCompileInputs.cache
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\obj\Debug\Final Challenge.csproj.CopyComplete
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\obj\Debug\Final Challenge.exe
+C:\Users\bmort\source\repos\Final Challenge\Final Challenge\obj\Debug\Final Challenge.pdb
